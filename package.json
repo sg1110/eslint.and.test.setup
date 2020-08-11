@@ -1,8 +1,6 @@
 {
-  "name": "slaphead",
   "version": "1.0.0",
   "description": "",
-  "main": "slaphead.js",
   "scripts": {
     "lint": "eslint \"./src/*.js\" --fix",
     "pretest": "npm run lint",
